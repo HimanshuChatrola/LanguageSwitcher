@@ -1,0 +1,12 @@
+{
+    "languageButtonText" : "Language Buttons",
+    "helloWorldText" : "Hello World",
+    "englishText" : "English",
+    "gujaratiText" : "Gujarati",
+    "sampleFormPageText" : "Sample Form Page",
+    "surnameText" : "Surname",
+    "yourNameText" : "YourName",
+    "fatherNameText" : "Father's Name",
+    "mobileNumberText" : "Mobile Number",
+    "submitText" : "Submit"
+}
